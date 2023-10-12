@@ -1,0 +1,32 @@
+.footer-container{
+    width: 100vw;
+    margin-top: 2rem;
+    position: absolute;
+    bottom: 0;
+}
+
+
+.footer-location-container,.footer-links-container{
+    width: 100%;
+    border-top: 1px var(--clr-grey) solid;
+    align-items: center;
+    display: flex;
+    height: 2rem;
+    padding: 2rem;
+}
+
+.footer-links{
+    font-family: var(--font-poiret);
+    font-size: 1.4rem;
+    font-weight: 800;
+}
+.footer-links-container a {
+    text-decoration: none;
+    color: var(--clr-light-teal);
+}
+.footer-links-container{
+    justify-content: space-between;
+}
+.footer-location-container{
+    justify-content: space-around;
+}
