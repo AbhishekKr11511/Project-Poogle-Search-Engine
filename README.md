@@ -1,4 +1,4 @@
-# Poogle - A minimalistic Search Engine with Image and Video Search
+# Poogle💩 - A minimalistic Search Engine with Image and Video Search 
 
 <table>
   <tr>
@@ -20,26 +20,26 @@ Introducing a minimalistic search engine, offering a user experience akin to Goo
 
 <!-- This is where to explore about the features further:  -->
 
-### Search Results
+### Search Results 👁‍🗨
 
 <img src="/src/assets/thumbs/1.png" alt="Image 1">
 
 
-### Image Results
+### Image Results 🏞 🛤
 
-<img src="/src/assets/thumbs/2.png" alt="Image 2">
+<img src="/src/assets/thumbs/2.jpg" alt="Image 2">
 
 
-### Video Results
+### Video Results 📺 📽 🎥
 
 <img src="/src/assets/thumbs/4.png" alt="Image 4">
 
 
-### Light and Dark Mode
+### Light and Dark Mode 🌞/🌑
 <table>
   <tr>
     <td><img src="/src/assets/thumbs/d.png" alt="Image 5"></td>
-    <td><img src="/src/assets/thumbs/l.jpg" alt="Image 6"></td>
+    <td><img src="/src/assets/thumbs/l.png" alt="Image 6"></td>
   </tr>
 </table>
 
@@ -57,8 +57,8 @@ Introducing a minimalistic search engine, offering a user experience akin to Goo
 
 ### Additional Dependencies Used 🌠☄
 <ul>
-  <li>Axios - For Fetching data</li>
-  <li>Chart.js - For Chart depiction</li>
-  <li>Dayjs - For fetching the Date and Time</li>
-  <li>Millify - For formatting large numbers in readable format</li>
+  <li>Millify - To Format large numbers</li>
+  <li>React Icons - For Custom Icons</li>
+  <li>Axios - For fetching Data from Api</li>
+  <li>Use Debounce - For Value or Callback Debouncing</li>
 </ul>
